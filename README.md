@@ -17,7 +17,9 @@
 - Git & GitHub Mastery
 
 ## 📬 Connect with me:
-[LinkedIn](#) | [Portfolio (Coming Soon)](#)
+🚧 LinkedIn: Coming Soon  
+🌐 Portfolio: Coming Soon
+
 
 ---
 ✨ *"Code. Learn. Build. Repeat."*
