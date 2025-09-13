@@ -17,7 +17,7 @@
 - Git & GitHub Mastery
 
 ## 📬 Connect with me:
-🚧 LinkedIn: Coming Soon  
+🚧 LinkedIn: www.linkedin.com/in/gunjan-khudaniya-121159356  
 🌐 Portfolio: Coming Soon
 
 
@@ -25,7 +25,4 @@
 ✨ *"Code. Learn. Build. Repeat."*
 
 
-<!---
-codebygunjan/codebygunjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
