@@ -19,8 +19,8 @@ I am a passionate **Frontend Developer** specializing in building responsive, hi
 ### 🛠️ Featured Projects
 
 * **[Developer Portfolio Website](https://developer-portfolio-umber-rho.vercel.app/)** — Personal portfolio built with Next.js and Tailwind CSS showcasing my engineering work.
-* **[Rajasthan Tourism Portal](https://codebygunjan.github.io/Tourist-place/)** — Fully responsive multi-page tourism platform featuring custom layouts and modern CSS styling.
-* **[Netflix Clone](https://codebygunjan.github.io/clone-Netflix/)** — Interactive landing page clone featuring responsive design and accessible accordion menus built via hidden checkbox hacks.
+* **[SHAN — Furniture Interior & Exterior Website](https://shan-furniture-website.vercel.app/)** — Modern, responsive furniture and interior showcase application with clean UI/UX and product displays.
+* **[HADAN — Hotel Booking Platform](https://hadan-hotel-booking-website.vercel.app/)** — Full-featured hotel booking web app featuring room search, filtering, interactive booking UI, and seamless responsive design.
 
 ---
 
